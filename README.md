@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idlingturtle
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning Python JavaScript and GO
 - 📫 How to reach me ...
 
